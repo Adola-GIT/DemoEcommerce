@@ -1,0 +1,11 @@
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\bin\Debug\net9.0\ProductApi.Domein.deps.json
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\bin\Debug\net9.0\ProductApi.Domein.dll
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\bin\Debug\net9.0\ProductApi.Domein.pdb
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.AssemblyInfoInputs.cache
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.AssemblyInfo.cs
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.csproj.CoreCompileInputs.cache
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.dll
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\refint\ProductApi.Domein.dll
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ProductApi.Domein.pdb
+C:\Users\Adola\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domein\obj\Debug\net9.0\ref\ProductApi.Domein.dll
